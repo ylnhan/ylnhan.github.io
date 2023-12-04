@@ -19,7 +19,7 @@ Pressure has grown for industrial members to produce chemicals and materials fol
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/polymer-fig.png" title="example image" class="img-fluid rounded z-depth-0" %}
+        {% include figure.html path="assets/img/polymer-fig.png" title="polymer image" class="img-fluid rounded z-depth-0" %}
     </div>
 </div>
 <div class="caption">
