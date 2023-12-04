@@ -16,9 +16,6 @@ Pressure has grown for industrial members to produce chemicals and materials fol
 <li><b>TDESMD algorithm</b>: The implementation rests on the combination of Rabi theory and surface hopping approximation. In the TDESMD algorithm, a molecule experiences cyclic excitations and de-excitations between the ground state and excited state to model the perturbation of molecules by light. The TDESMD method has been used to explore photoreactions for a range of materials.</li>
 <li><b>Vacuum and aqueous environments</b>: We find a similar trend of photodegradation pathways for trajectories in vacuum and aqueous environments: nitro groups are labile, and the backbone chain typically breaks between the C–O bond of the alkoxy group in the linker. Molecules similar to nitrobenzene and furan are frequently observed at early stages of computed trajectories. At later stages, smaller fragments with lighter molecular weights are found, due to the accumulation of thermal energy. TDESMD trajectories in the vacuum phase show a higher degree of degradation than those in the aqueous phase. Following the breaking of polymeric chains, one observes the degradation of the FDCA backbone in the vacuum trajectory, whereas a FDCA molecule is formed and remains intact in the aqueous trajectory. our results indicate that proton transfers involving polymeric derivatives and surrounding solvent molecules are essential for the recovery of FDCA monomers.</li>
 </ul>
-<br>
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

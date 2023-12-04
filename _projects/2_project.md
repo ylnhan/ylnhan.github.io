@@ -19,7 +19,6 @@ giscus_comments: false
 <li><b>Implications and significance:</b> We demonstrate that the photochemical functionalization of SWCNTs provides a precise and tunable way to create fluorescent quantum defects with specific binding configurations and emission wavelengths. We also suggest that the concept of spin-state control can be extended to other nanomaterials and conjugated systems. We highlight the potential applications of the functionalized SWCNTs as quantum light sources and sensors.</li>
 </ul>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cnt-fig5.jpg" title="example image" class="img-fluid rounded z-depth-0" %}
